@@ -12,9 +12,9 @@
     3. Cls_8
         - 차량에 대한 분류를 하는 모델이다.
 2. 모델
-    1. **Det_1model** : Det_1로 학습시킨 모델
-    2. **Det_8model** : Det_8로 학습시킨 모델
-    3. **Cls_8model** : Cls_8로 학습시킨 모델
+    1. **Det_1model** : Det_1로 학습시킨 m 사이즈 모델 
+    2. **Det_8model** : Det_8로 학습시킨 m 사이즈 모델
+    3. **Cls_8model** : Cls_8로 학습시킨 s,m,l 모델
 
 ## 실험(비교) 내용
 1. **Det_1model vs Det_8model**의 차량 검출 능력
